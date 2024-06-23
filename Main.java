@@ -1,6 +1,5 @@
-// Nombre: [Tu Nombre]
-// Apellido: [Tu Apellido]
-// Legajo: [Tu Legajo]
+// Nombre: Linda Candela 
+// Apellido: Paz
 // Fecha: 23/06/2024
 
 public class Main {
